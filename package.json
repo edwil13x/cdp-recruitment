@@ -1,0 +1,14 @@
+{
+  "name": "cdp-recruitment",
+  "version": "1.0.0",
+  "description": "coding test",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.4.2"
+  }
+}

@@ -1,6 +1,6 @@
 'use strict'
 
-const {main, search, isValidCmdLineArgs} = require('./lib.js');
+const {main, search, isValidCmdLineArgs} = require('../src/lib.js');
 
 const invalidArgs = ['/bin/node', 'file/path'];
 const validArgs = ['/bin/node', 'file/path', '--filter=idna'];
